@@ -10,6 +10,6 @@
   },
   "dependencies": {
     "@netlify/sdk": "^3.0.0",
-    "typescript": "^5.2.2"
+    "typescript": "^5.9.2"
   }
 }
